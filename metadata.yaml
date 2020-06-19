@@ -1,0 +1,40 @@
+_repo: Little-Susan-and-her-lamb_62391
+_version: 0.0.1
+contributor:
+  printer:
+    agent_name: Johnson, Lawrence
+    alias: Johnson, L. (Lawrence)
+    birthdate: 1801
+    deathdate: 1860
+    gutenberg_agent_id: '51924'
+    url: http://www.gutenberg.org/2009/agents/51924
+    wikipedia: https://en.wikipedia.org/wiki/Lawrence_Johnson_(type-founder)
+creator:
+  author:
+    agent_name: American Sunday-School Union
+    alias: Union, American Sunday-School
+    gutenberg_agent_id: '2632'
+    url: http://www.gutenberg.org/2009/agents/2632
+    wikipedia: https://en.wikipedia.org/wiki/InFaith
+description: ''
+gutenberg_issued: '2020-06-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62391'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories'
+- !lcsh 'Country life -- Juvenile fiction'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Sunday school literature'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Lambs -- Juvenile fiction'
+- !lcsh 'Animal welfare -- Juvenile fiction'
+- GITenberg
+title: Little Susan and her lamb
+url: http://www.gutenberg.org/ebooks/62391
