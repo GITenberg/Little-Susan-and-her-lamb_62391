@@ -1,5 +1,5 @@
 _repo: Little-Susan-and-her-lamb_62391
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   printer:
     agent_name: Johnson, Lawrence
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '51924'
     url: http://www.gutenberg.org/2009/agents/51924
     wikipedia: https://en.wikipedia.org/wiki/Lawrence_Johnson_(type-founder)
+covers:
+- cover_type: archival
+  image_path: 62391-h/images/cover-illus.jpg
 creator:
   author:
     agent_name: American Sunday-School Union
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2632
     wikipedia: https://en.wikipedia.org/wiki/InFaith
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62391#Little-Susan-and-her-lamb
 gutenberg_issued: '2020-06-13'
 gutenberg_type: Text
 identifiers:
